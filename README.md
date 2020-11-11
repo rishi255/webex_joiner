@@ -1,2 +1,3 @@
 # webex_joiner
-Selenium script to join given webex meeting link automatically.
+Python script to join given webex meeting link automatically.  
+Uses the beautiful [Selenium](https://selenium-python.readthedocs.io/) module.  
